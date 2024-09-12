@@ -4,7 +4,9 @@
 
 ## Introduction
 Welcome to the GitHub repository for our ALA! <br>
-Each of you will have your own respective folders where you will submit your assignments and activities.
+This repositories stores all of your references, logs, activities, and assignments. <br><br>
+
+Each activity will have their own respective folder where you will submit your assignments and activities.
 
 ## Q&A
 #### **How do I submit?**
