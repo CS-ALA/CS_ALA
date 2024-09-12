@@ -2,9 +2,8 @@
   <h1>CS ALA GitHub</h1>
 </div>
 
-## Introduction
 Welcome to the GitHub repository for our ALA! <br>
-This repositories stores all of your references, logs, activities, and assignments. <br><br>
+This repositories stores all of your references, logs, activities, and assignments. <br>
 
 Each activity will have their own respective folder where you will submit your assignments and activities.
 
