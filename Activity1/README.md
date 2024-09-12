@@ -5,7 +5,7 @@ Print each of these outputs with the following style:
 > Operator: Result
 
 Example input:
-    <pre><code>YOURNAME_program.py 4 3
+    <pre><code>$ LASTNAME_Activity1.py 4 3
     </code></pre>
     
 Example output:
