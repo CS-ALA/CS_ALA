@@ -1,3 +1,4 @@
+
 <div align="center">
   <h1>CS ALA GitHub</h1>
 </div>
@@ -23,14 +24,33 @@ There are two ways that you can submit:
 <details>
   <summary>Manually through the terminal</summary>
   <br>
-  
-  <h2># WIP <br></h2>
-  1. Create a folder of your choosing. <br>
-  <pre><code>
-    git remote add origin git@github.com:CS-ALA/CS_ALA.git
-    git branch -M main
-    git push -u origin main
-  </code></pre>
+  <ol>
+    <li> Create a folder of your choosing.</li>
+    <li> 
+      <a href="https://git-scm.com/download/win"> Install Git on your Windows system. </a><br>
+      If you're using Arch Linux, run <code>sudo pacman -S git</code>
+    </li>
+    <li>
+      Run these commands:
+      <pre><code>
+        git init 
+        git clone https://github.com/CS-ALA/CS_ALA.git
+      </code></pre>
+    </li>
+    <li> 
+      Now add your files to the folder. For exmaple, you want to add the file `Hello`:
+      <pre><code>
+        git add hello
+      </code></pre>
+    </li>
+    <li> 
+      Commit your changes and push them to this repository.
+      <pre><code>
+        git commit
+        git push
+      </code></pre>
+    </li>
+  </ol>
 </details>
 
 ## Other
