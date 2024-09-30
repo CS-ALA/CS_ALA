@@ -15,10 +15,35 @@ There are two ways that you can submit:
 <details>
   <summary>Using the GitHub site</summary>
   <br>
-  
-  1. Go to your respective folder. <br>
-  2. Click the `Add file` button on the top right.<br>
-  3. Select your file and upload it.
+
+  <ol>
+    <li>
+      Go to the respective folder for an activity. <br>
+      <img src=".images/1.1_tutorial.png">
+      <hr>
+    </li>
+    <li> 
+      Click the `Add file` button on the top right.<br>
+      <img src=".images/1.2_tutorial.png">
+      <hr>
+    </li>
+    <li> 
+      Select the `Upload files` option. <br>
+      <img src=".images/1.3_tutorial.png"> <br>
+      > Optionally, you can select the `Create new file` option and write your code there.
+      <hr>
+    </li>
+    <li>
+      Select your file and upload it. <br>
+      <img src=".images/1.4_tutorial.png"> <br>
+      <img src=".images/1.5_tutorial.png">
+      <hr>
+    </li>
+    <li> 
+      Make a commit message that includes your last name and commit. <br>
+      <img src=".images/1.6_tutorial.png">
+    </li>
+  </ol>
 </details>
 
 <details>
