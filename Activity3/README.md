@@ -17,7 +17,7 @@ Example output:
     </code></pre>
 
 You may write this in any programming language. <br>
-Submit this in this repository directly with the following file name: `LASTNAME_Activity2-1.FILETYPE` 
+Submit this in this repository directly with the following file name: `LASTNAME_Activity3-1.FILETYPE` 
 
 ## Activity 3.2
 
@@ -38,4 +38,4 @@ Example output:
     </code></pre>
 
 You may write this in any programming language. <br>
-Submit this in this repository directly with the following file name: `LASTNAME_Activity2-2.FILETYPE` 
+Submit this in this repository directly with the following file name: `LASTNAME_Activity3-2.FILETYPE` 
